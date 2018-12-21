@@ -81,8 +81,9 @@ a:hover {
 
 header,
 section,
-footer {
-  padding: 30px;
+footer,
+p {
+  padding: 20px;
 }
 
 section {
